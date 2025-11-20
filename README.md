@@ -24,7 +24,7 @@ It's hardcoded to bus `/dev/i2c-3` and I2C address 0b10000 (grounded).
 
 ## Discussion
 
-I wrote a blog post about the development of this crate [here](https://blog.kiranshila.com/blog/pac_rust_driver.md)
+I wrote a blog post about the development of this crate [here](https://blog.kiranshila.com/post/pac_rust_driver)
 
 ## License
 Licensed under either of
