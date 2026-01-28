@@ -19,7 +19,7 @@ This driver allows you to:
 To use this driver, import this crate and an `embedded_hal` implementation,
 then instantiate the appropriate device. See the `examples` folder for example code.
 
-Run it on Linux with `cargo build --examples linux && sudo ./target/debug/examples/linux`.
+Run it on Linux with `cargo build --examples && sudo ./target/debug/examples/linux`.
 It's hardcoded to bus `/dev/i2c-3` and I2C address 0b10000 (grounded).
 
 ## Discussion
